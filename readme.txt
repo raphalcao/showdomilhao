@@ -17,3 +17,18 @@ A dinâmica do programa é executada da seguinte maneira:
 - Quando o participante erra a questão, o sistema contabiliza os acertos e faz o cálculo do valor a receber pelo participante.
 
 O sistema é interativo e de fácil entendimento.
+
+
+ATUALIZAÇÃO 2
+
+- Adicionando testes no sistema.
+
+Para executar os testes, é necessário executar a partir do arquivo testes.py
+
+O processo atual dos testes está conforme imagem abaixo:
+
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK

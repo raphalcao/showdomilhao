@@ -13,5 +13,3 @@ def valor_recebido(total_ganho):
     else:
         total_ganho = 1000000
     return (f"Parabéns! Você rebeceu R$: {total_ganho} reais.")
-
-
