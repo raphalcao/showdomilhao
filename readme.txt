@@ -25,7 +25,7 @@ ATUALIZAÇÃO 2
 
 Para executar os testes, é necessário executar a partir do arquivo testes.py
 
-O processo atual dos testes está conforme imagem abaixo:
+O processo atual dos testes está conforme abaixo:
 
 ..
 ----------------------------------------------------------------------
